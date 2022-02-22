@@ -22,7 +22,7 @@ First I used Pandas to convert integer datatype to a datetime datatype. Since Au
 ![This image shows the Checkout Times for Users](images/checkouttimes-user.PNG)
 
 #### Checkout Times for Users
-This line graph displays the number of bikes checked out by duration for all users, and the graph can be filtered by the hour. Gives info on each hour and minute of the trip, displaying the number of trips. For example during the first 6 minutes of the first hour 145,147 bikes were checked out. During the second hour of the trip the number of bikes checked out changes between 100-900. This information tells us that the first hour of any trip has the highest number of bikes. 
+This line graph displays the number of bikes checked out by duration for all users, and the graph can be filtered by the hour. Gives info on each hour and minute of the trip, displaying the number of trips. For example during the first 6 minutes of the first hour 145,147 bikes were checked out. During the second hour of the trip the number of bikes checked out changes between 100-900. This information tells us that the first hour of any trip has the highest number of bikes. The graph can be filtered for 24 hr time slots.
 
 ![This image shows the Check Out Time by Gender](images/checkouttimes-gender.PNG)
 
