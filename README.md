@@ -10,7 +10,7 @@ The purpose is to analyse and present August 2019 NYC bikeshare data story to sh
 August data is used in this project because there is likely more traffic during the summer months. Database contains information about the trip such as trip duration, start-stop time, start-end station, station ID, station Lat/Long, bike ID, user type (customer, subscriber), gender (female,male,unknown) and birth year.
 
 #### Tools:
-I'm using Tableau Public 2021.4.3, Pandas library, Python, Jupyter notebooks and the given datatase citibike trip history for August 2019 in NYC.
+I'm using Tableau Public 2021.4.3, Pandas library, Python, Jupyter notebooks and the given database 'citibike trip' history for August 2019 in NYC.
 
 ## Results:
 First I used Pandas to convert integer datatype to a datetime datatype. Since August is a beautiful time of the year to rent a bike, I want to use the August data as a starting point to determine how many rides we could expect in the city of Des Moines. Using the Tableau Public I created the following visualizations. You can find the analysis of each visualization below the image. Each viz makes us think about what we absolutely need to know in order to create Des Moines bike-sharing program.
