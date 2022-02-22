@@ -1,6 +1,6 @@
 # Des Moines, Iowa bike-share company using NYC CitiBike data in Tableau Public
 ## Overview of the analysis:
-Data Viz with Tableau Public for bikesharing company in Des Moines needs to be created. NYC Citibike August 2019 dbase is used but need to keep in mind that it is for Des Moines region in Iowa. I used Tableau Public for this project to present a business proposal for a bike-sharing company idea for Des Moines. Created worksheets, a dahshboard and a story to visualize key data from a New York Citi Bike dataset. 
+Data Viz with Tableau Public for bikesharing company in Des Moines needs to be created. NYC Citibike August 2019 dbase is used but need to keep in mind that it is for Des Moines region in Iowa. I used Tableau Public for this project to present a business proposal for a bike-sharing company idea for Des Moines. Created worksheets and a story to visualize key data from a New York Citi Bike dataset. 
 
 Tableau can be used to transform any data into an engaging data story for any non-technical audience. Tableau Server allows you to privately share your visualizations with others. You can create your visualizations locally in Tableau Public and then you can upload your visualizations to Tableau Server. You will find the link to my Tableau server below. 
 
